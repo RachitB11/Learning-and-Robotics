@@ -9,7 +9,8 @@ core.*
 *.log
 *.out
 *.ics
-*.pdf
 *.xml
 *.org-source
 *.toc
+.idea
+*.pyc
